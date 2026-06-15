@@ -1,0 +1,12 @@
+Dataset: Alice in Wonderland sample
+This dataset is different from tiny Shakespeare.
+
+step 0 train loss: 4.214
+step 100 train loss: 2.971
+step 200 train loss: 2.563
+step 300 train loss: 2.341
+step 400 train loss: 2.186
+step 500 train loss: 2.087
+
+The training loss became lower than the first step.
+This means the small GPT model learned some character patterns from the Alice dataset.

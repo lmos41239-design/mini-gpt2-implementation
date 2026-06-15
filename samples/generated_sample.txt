@@ -1,0 +1,3 @@
+Alice was so the little way and the rabbit was look at the book.
+She was not sure how to get out again, but she went down and thought about the field.
+The text is not perfect, but it shows that the small model learned some repeated words and sentence style from the Alice dataset.
